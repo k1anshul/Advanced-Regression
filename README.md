@@ -1,4 +1,4 @@
-# Assignment - Advanced-Regression
+# Advanced Regression
 
 ## Problem Statement - Part I
 This assignment contains two parts. Part-1 is a programming assignment (to be submitted in a Jupyter notebook) whereas part-2 includes subjective questions (to be submitted in a PDF file). 
