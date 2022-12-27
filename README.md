@@ -63,7 +63,14 @@ After building the model, you realised that the five most important predictor va
 
 How can you make sure that a model is robust and generalisable? What are the implications of the same for the accuracy of the model and why?
 
- 
+
+## Technologies Used
+- numpy - version 1.21.6
+- pandas - version 1.3.0
+- matplotlib - version 3.4.2
+- seaborn - version 0.11.1
+- statsmodels - version 0.12.2
+- sklearn - version 0.24.2
  
 ## Conclusion
  
