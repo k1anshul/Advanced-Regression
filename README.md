@@ -64,3 +64,23 @@ After building the model, you realised that the five most important predictor va
 How can you make sure that a model is robust and generalisable? What are the implications of the same for the accuracy of the model and why?
 
  
+ 
+## Conclusion
+ 
+### Top 10 Best Performing Feature according to Lasso Regression are:
+
+Lasso Regression performing best on given data with Test R2 Score of 92%
+
+ |  Feature  |  Description  |
+ |  ---  |  ---  |
+ |  GrLivArea  |  Above grade (ground) living area square feet  |
+ |  TotalBsmtSF  |  Total square feet of basement area 
+ |  OverallQual  |  Rates the overall material and finish of the house  |
+ |  Neighborhood |  Physical locations within Ames city limits|
+ |  OverallCond  |  Rates the overall condition of the house  |
+ |  house_age    |  Rates the overall condition of the house|
+ |  BsmtFinSF1   |  Type 1 finished square feet|
+ |  LotArea      |  Lot size in square feet|
+ |  ExterQual    |  Evaluates the quality of the material on the exterior |
+ |  SaleType     |  Type of sale|
+ 
